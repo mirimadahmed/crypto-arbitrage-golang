@@ -29,7 +29,7 @@ The Crypto Arbitrage Detector fetches real-time price data from Bybit and Binanc
 
 2. Navigate to the project directory:
    ```
-   cd crypto-arbitrage-detector
+   cd crypto-arbitrage-golang
    ```
 
 3. Install the required package:
